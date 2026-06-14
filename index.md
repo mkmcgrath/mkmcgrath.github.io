@@ -1,2 +1,14 @@
-hi, my name is Matthew. I am a Software Engineering Major, pursuing a bachelors degree with an emphasis in Full Stack Development, although I very much enjoy Linux, Cybersecurity, and programming. FAQ / HARDWARE: Camera: Sony Handycam Digital 8 Camcorder/Cheap Logitech USB Webcam Laptop: Modded Thinkpad X61 Mixer: TASCAM M-208 Microphone: Shure SM7B and Shure SM57 Keyboard: IBM Model-M (updated USB version) What OS do you use? I use arch linux on my daily machine, but I have several flavors of Linux running on my various systems. What text editor do you use? I use a slightly modified version of lazyvim for the majority of my programming work.
+Hi, my name is Matthew
+I am a Software Engineering Major, pursuing a bachelors degree with an emphasis in Full Stack Development.
 
+I will graduate December of 2026. I am actively pursuing roles.
+
+I very much enjoy Linux, Cybersecurity, and programming.
+
+I enjoy thinkpads. My daily is a Thinkpad X61, although I've used the X220, X230, T480s, and E14.
+
+I mostly use Arch Linux, although I'm using Void Linux at the moment. I've got experience using Debian, Manjaro, Redhat, OpenSuse, etc.
+
+While I find X11 useful, I much prefer the framebuffer using tmux. I find that the majority of my most productive work happens there.
+
+I use a slightly modified version of lazyvim for the majority of my programming work.
