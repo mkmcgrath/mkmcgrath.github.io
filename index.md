@@ -13,3 +13,6 @@ I mostly use a mix of Arch/Gentoo Linux, although I've got experience using Debi
 While I find X11 useful, I much prefer the framebuffer using tmux. I find that the majority of my most productive work happens there.
 
 I use a slightly modified version of lazyvim for the majority of my programming work.
+
+
+You can contact me at: mkmcgrath.dev@proton.me
